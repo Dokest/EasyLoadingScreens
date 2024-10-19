@@ -1,5 +1,5 @@
 # EasyLoadingScreens
-A FOSS plugin for Unreal Engine 5 to handle loading screens for your games!
+An easy to use FOSS plugin for Unreal Engine 5 to handle loading screens for your games!
 
 ## Usage
 The following classes and methods are provided:
